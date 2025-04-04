@@ -12,7 +12,7 @@ TBA
 
 ## Resources
 
-* Prompts: TBA
+* [Prompts](resources/PROMPTS.md): All system and user prompts used for UML and ER diagram conversion, identification of differences and generation of structured feedback.
 * UML Diagram Example: TBA
 * ER Diagram Example: TBA
 * Results of Data Analysis: TBA
