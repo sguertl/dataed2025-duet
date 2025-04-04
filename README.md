@@ -2,7 +2,7 @@
 
 ## Supplement Materials for DataEd 2025
 
-In this GitHub repository you can find supplement materials for our DataEd 2025 paper *DUET: Leveraging Large Language Models to Provide Student Feedback on UML and ER Diagrams*.
+In this GitHub repository you can find supplement materials for our DataEd 2025 paper *Automated Feedback on UML and ER Diagrams Using Large Language Models*.
 
 It contains both the source code of the tool as well as further resources.
 
