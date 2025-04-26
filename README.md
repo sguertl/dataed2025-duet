@@ -33,9 +33,9 @@ response = ollama.chat(
 ## Resources
 
 * [Prompts](resources/PROMPTS.md) - All system and user prompts used for UML and ER diagram conversion, identification of differences and generation of structured feedback.
-* UML Diagram Example: TBA
-* ER Diagram Example: TBA
-* Results of Data Analysis: TBA
+* [UML Diagram Example](resources/UML.md)
+* [ER Diagram Example](resources/ERD.md)
+* [Results of Data Analysis](resources/Data-Analysis.xlsx)
 
 # Authors
 
